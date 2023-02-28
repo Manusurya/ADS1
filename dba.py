@@ -79,6 +79,6 @@ def scatterplot():
     plt.title('Concentration of PM25 in different Residence Areas for 2019')
     plt.show()  # calling the show function to display the plot
     
-bargraph()
-linegraph()
-scatterplot()
+bargraph() #function call for bar plot
+linegraph() #function call for line plot
+scatterplot() #function call for scatter plot
